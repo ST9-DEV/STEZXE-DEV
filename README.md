@@ -1,4 +1,4 @@
-- Hi, I’m @STEZXE-DEV
+- Hi, I’m @STEZXE-DEV (ex ST9-DEV)
 - 2019-2024 - student of ZSG in Sucha Beskidzka
 - Interested in HTML (beginner)
 - Python since end of 2024 (beginner)
